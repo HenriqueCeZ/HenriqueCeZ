@@ -1,6 +1,6 @@
 
 
-## Olá! Sou Henrique Cezar👋
+## Fala galera, sou Henrique.👋
 ## Apaixonado por tecnologias front-end 🧠
 <div align="center">
   <a href="https://github.com/HenriqueCeZ">
