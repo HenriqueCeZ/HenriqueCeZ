@@ -15,14 +15,14 @@
   <img align="center" alt="Henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
-  <div  align="center">
-   ### 
+  <div  >
+   
 
     
 - 👨‍🎓 &nbsp; 💻. Dev em formação.
 - 👨‍💻 &nbsp; 👋 Estudante de Sistemas Para Internet.
 - 📖 &nbsp; 🧠. Desenvolvendo habilidades  no React e o seu Ecossistema 
-    </div>
+  </div>
   
  
 <div> 
