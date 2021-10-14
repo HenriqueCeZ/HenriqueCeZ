@@ -2,7 +2,7 @@
 
 ## Olá! Sou Henrique Cezar👋
 ## apaixonado por tecnologias front-end 🧠
-<div align="center">
+<div>
   <a href="https://github.com/HenriqueCeZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCeZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCeZ&layout=compact&langs_count=7&theme=dark"/>
@@ -21,9 +21,9 @@
   <div>
  
     
-- 👨‍🎓 &nbsp; 💻. Dev em formação.
-- 👨‍💻 &nbsp; 👋 Estudante de Sistemas Para Internet.
-- 📖 &nbsp; 🧠. Desenvolvendo habilidades  no React e o seu Ecossistema 
+- 👨‍🎓 &nbsp;. Dev em formação.
+- 👨‍💻 &nbsp;. Estudante de Sistemas Para Internet.
+- 📖 &nbsp;. Desenvolvendo habilidades  no React e o seu Ecossistema 
   </div>
   
   ##
