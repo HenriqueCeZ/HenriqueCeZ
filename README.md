@@ -1,7 +1,8 @@
 
-
+<img align="right" src="https://github.com/HenriqueCeZ/HenriqueCeZ/blob/main/images/code.gif" alt="Code" width="40%" />
 ## Fala galera, sou Henrique.👋
 ## Apaixonado por tecnologias front-end 🧠
+
 <div align="center">
   <a href="https://github.com/HenriqueCeZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueCeZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -28,11 +29,13 @@
 - 📖 &nbsp;. Desenvolvendo habilidades  no React e em todo seu Ecossistema .
   </div>
   
-  ##
+ 
  
   
 <div> 
   
+  
+  ##Contatos:
   
   <a href = "mailto:henriquecezar.jp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-cezar-3256b51b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
