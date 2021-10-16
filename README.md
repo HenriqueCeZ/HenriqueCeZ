@@ -27,7 +27,7 @@
     
 - 👨‍🎓 &nbsp;. Dev em formação.
 - 👨‍💻 &nbsp;. Estudante de Sistemas Para Internet.
-- 📖 &nbsp;. Desenvolvendo habilidades  no React e em todo seu Ecossistema .
+- 📖 &nbsp;. Desenvolvendo habilidades  no React e em todo seu Ecossistema.
   </div>
   
  
