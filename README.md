@@ -1,7 +1,7 @@
 
 
 ## Fala galera, sou Henrique.👋
-## Apaixonado por tecnologias front-end 🧠
+## Apaixonado por tecnologia 🧠
 
 <div align="center">
   <a href="https://github.com/HenriqueCeZ">
