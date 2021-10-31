@@ -11,11 +11,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📖 &nbsp; Atualmente estudando o universo React/front e expressJs/back 
+- 📖 &nbsp; Atualmente estudando React/front e expressJs/back 
 - 🤔 &nbsp; Exmplorando sempre novas tecnologias.
 - 🎓 &nbsp; Dev em formação.
 - 👨‍💻 &nbsp; Estudante de SPI.
 - 🧠 &nbsp; Apaixonado por tecnologia. 
+- ⚡ &nbsp; No tempo livre eu gosto de jogar uma boa gameplay 💥, ouvir um lo-fi pra relaxar 🎧, ler livros 📚 e rever código 👌.
  
 
 <h3>🛠 Tech Stack</h3>
