@@ -16,7 +16,7 @@
 - 🎓 &nbsp; Dev em formação.
 - 👨‍💻 &nbsp; Estudante de SPI.
 - 🧠 &nbsp; Apaixonado por tecnologia. 
-- ⚡ &nbsp; No tempo livre eu gosto de jogar uma boa gameplay 💥, ouvir um lo-fi pra relaxar 🎧, ler livros 📚 e rever código 👌.
+- ⚡ &nbsp; No tempo livre eu gosto de jogar uma boa gameplay, ouvir um lo-fi pra relaxar, ler livros e rever código.
  
 
 <h3>🛠 Tech Stack</h3>
