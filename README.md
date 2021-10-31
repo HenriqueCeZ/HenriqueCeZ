@@ -19,7 +19,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | BootStrap | SASS | HTML | CSS | JavaScript 
+- 💻 &nbsp; Javascript | BootStrap | SASS | HTML | CSS 
 - 🌐 &nbsp; React | ExpressJs | TypeScript
 - 🛢 &nbsp; MySQL | Firebase | Xampp | MongoDB
 - 🔧 &nbsp;  Visual Studio code | Git
