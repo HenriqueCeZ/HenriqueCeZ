@@ -3,43 +3,34 @@
 ## Fala galera, sou Henrique.👋
 ## Apaixonado por tecnologia.🧠
 
+
+
+<img align="right" alt="GIF" src="https://github.com/HenriqueCeZ/HenriqueCeZ/blob/main/gif4 (1).gif?raw=true" width="500"/>
+
+<!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 📖 &nbsp; Atualmente estudando o universo React/front e expressJs/back 
+- 🤔 &nbsp; Exmplorando sempre novas tecnologias.
+- 🎓 &nbsp; Dev em formação.
+- 👨‍💻 &nbsp; Estudante de SPI.
+ 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Javascript | BootStrap | SASS | HTML | CSS | JavaScript 
+- 🌐 &nbsp; React | ExpressJs | TypeScript
+- 🛢 &nbsp; MySQL | Firebase | Xampp | MongoDB
+- 🔧 &nbsp;  Visual Studio code | Git
+- 🖥 &nbsp;  Adobe Photoshop 
+
+<br>
+
+
+
 <div align="center">
   <a href="https://github.com/HenriqueCeZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=HenriqueCeZ&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCeZ&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
-  
-## Minhas Tecnologias Favoritas!
-<div style="display: inline_block"><br>
-  <img align="center" alt="Henri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Henri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Henri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" align="center" alt="nodejs"  width="40" height="30"/>
-  
-</div>
-  
-  ##
-  
-  <div>
- 
-    
-- 👨‍🎓 &nbsp;. Dev em formação.
-- 👨‍💻 &nbsp;. Estudante de SPI.
-- 📖 &nbsp;. Desenvolvendo habilidades  no React e em todo seu Ecossistema.
-  </div>
-  
- 
- 
-  
-
-  
-  
-  ## Contatos 📞
-  
-  <a href = "mailto:henriquecezar.jp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-cezar-3256b51b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/HenriqueCeZ/HenriqueCeZ/blob/output/github-contribution-grid-snake.svg)
-
