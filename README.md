@@ -1,7 +1,7 @@
 
 
 ## Fala galera, sou Henrique.👋
-## Apaixonado por tecnologia.🧠
+
 
 
 
@@ -15,6 +15,7 @@
 - 🤔 &nbsp; Exmplorando sempre novas tecnologias.
 - 🎓 &nbsp; Dev em formação.
 - 👨‍💻 &nbsp; Estudante de SPI.
+- 🧠 &nbsp; Apaixonado por tecnologia. 
  
 
 <h3>🛠 Tech Stack</h3>
