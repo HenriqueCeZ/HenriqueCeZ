@@ -11,7 +11,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 📖 &nbsp; Atualmente estudando React/front e expressJs/back 
+- 📖 &nbsp; Aprendizado constante. 
 - 🤔 &nbsp; Explorando sempre novas tecnologias.
 - 🎓 &nbsp; Dev em formação.
 - 👨‍💻 &nbsp; Estudante de SPI.
@@ -21,8 +21,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | BootStrap | SASS | HTML | CSS 
-- 🌐 &nbsp; React | ExpressJs | TypeScript
+- 💻 &nbsp; Javascript | BootStrap | SASS | HTML | CSS | JAVA 
+- 🌐 &nbsp; React | ExpressJs | TypeScript | Spring-Boot | Angular
 - 🛢 &nbsp; MySQL | Firebase | Xampp | MongoDB
 - 🔧 &nbsp;  Visual Studio code | Git
 - 🖥 &nbsp;  Adobe Photoshop 
