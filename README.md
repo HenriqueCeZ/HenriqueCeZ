@@ -25,7 +25,7 @@
 - 🌐 &nbsp; React | ExpressJs | TypeScript | Spring-Boot | Angular
 - 🛢 &nbsp; MySQL | Firebase | Xampp | MongoDB
 - 🔧 &nbsp;  Visual Studio code | Git
-- 🖥 &nbsp;  Adobe Photoshop 
+- 🖥 &nbsp;  Adobe Photoshop | Figma
 
 <br>
 
@@ -36,5 +36,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=HenriqueCeZ&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCeZ&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
+ 
+  ##  Visitas no perfil :detective: <br>
+ 
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/HenriqueCeZ/count.svg" /></p>
