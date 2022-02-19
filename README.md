@@ -1,6 +1,6 @@
 
 
-## Fala galera, sou Henrique.👋
+###  <i>Fala galera, sou Henrique!</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> 
 
 
 
@@ -9,26 +9,36 @@
 
 
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 📖 &nbsp; Aprendizado constante. 
-- 🤔 &nbsp; Explorando sempre novas tecnologias.
-- 🎓 &nbsp; Dev em formação.
-- 👨‍💻 &nbsp; Estudante de SPI.
-- 🧠 &nbsp; Apaixonado por tecnologia. 
+<i> <strong> Atualmente estou desenvolvendo com JAVA Spring-Boot, gosto muito de aprender novas tecnologias e solucinar problemas com códigos. Procuro sempre manter o aprendizado constante.</strong> </i>  
 
  
+##
 
-<h3>🛠 Tech Stack</h3>
+### <i>Contate-me 📝</i>
 
-- 💻 &nbsp; Javascript | BootStrap | SASS | HTML | CSS | JAVA 
-- 🌐 &nbsp; React | ExpressJs | TypeScript | Spring-Boot | Angular
-- 🛢 &nbsp; MySQL | Firebase | Xampp | MongoDB
-- 🔧 &nbsp;  Visual Studio code | Git
-- 🖥 &nbsp;  Adobe Photoshop | Figma
-
+[<img align="left" alt="bilgehangecici | LinkedIn" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>](https://www.linkedin.com/in/henrique-cezar-3256b51b6/)
 <br>
+##
+</div>
 
+
+ 
+### <i>Estou desenvolvendo soluções com essas stacks 🛠</i>
+
+<div align="center" > 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   
+</div>
+ 
+##
+<br>
+<br>
+<br>
+<br>
 
 
 <div align="center">
