@@ -9,7 +9,7 @@
 
 
 
-<i> <strong> Atualmente estou desenvolvendo com JAVA Spring-Boot, gosto muito de aprender novas tecnologias e solucinar problemas com códigos. Procuro sempre manter o aprendizado constante.</strong> </i>  
+<i> <strong> Atualmente estou desenvolvendo com JAVA Spring-Boot, gosto muito de aprender novas tecnologias e solucionar problemas com códigos. Procuro sempre manter o aprendizado constante.</strong> </i>  
 
  
 ##
