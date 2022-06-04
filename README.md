@@ -1,6 +1,6 @@
 
 
-###  <i>Fala galera, sou Henrique!</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> 
+###  <i>Fala galera, sou Henrique!</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="30px"> 
 
 
 
@@ -16,7 +16,7 @@
 
 ### <i>Contate-me 📝</i>
 
-[<img align="left" alt="bilgehangecici | LinkedIn" width="40px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>](https://www.linkedin.com/in/henrique-cezar-3256b51b6/)
+[<img align="left" alt="bilgehangecici | LinkedIn" width="40px" height="30px" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"/>](https://www.linkedin.com/in/henrique-cezar-3256b51b6/)
 <br>
 ##
 </div>
