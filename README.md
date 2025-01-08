@@ -9,7 +9,7 @@
 
 
 
-<i> <strong> Atualmente estou desenvolvendo em Java com vue.js, gosto muito de aprender novas tecnologias e solucionar problemas com códigos.</strong> </i>  
+<i> <strong> Atualmente, sou desenvolvedor Full stack graduado em Sistemas para Internet. Desenvolvo em projetos Java. Tenho mais de 3 anos de experiência em desenvolvimento de softwares monolíticos e microserviços..</strong> </i>  
 
  
 ##
